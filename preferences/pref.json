@@ -1,0 +1,32 @@
+{
+  "filter_words": [
+    "parameter",
+    "efficient"
+  ],
+  "filter_words_history": [
+    "parameter",
+    "efficient"
+  ],
+  "collect_number": 1000,
+  "query_category": [
+    "cs.AI",
+    "cs.LG"
+  ],
+  "query_keywords": [
+      ""
+  ],
+  "query": [
+    "(cat:cs.AI OR cat:cs.LG) AND (LLM)"
+  ],
+  "filter_conditions": [
+    {
+      "title": [
+        "lora"
+      ],
+      "primary_category": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  ]
+}
